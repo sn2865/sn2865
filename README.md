@@ -4,8 +4,6 @@
 
 ## Experience
 
-You can find my resume [here]().
-
 | | | | |
 |:--:|:--:|:--:|:--:|
 | <img width="75" src="./enoki.png" alt="Enoki"></img> | [Enoki](https://enoki.so) | Software Engineering Intern | January '23 - |
