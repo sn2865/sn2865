@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/sergionahas/)
 
-## Previous Experiences
+## Experience
 
 You can find my resume [here]().
 
