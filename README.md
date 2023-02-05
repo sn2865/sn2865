@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/sergionahas/)
 
+I am a current senior at Columbia University studying computer science.
+
 ## Experience
 
 | | | | |
